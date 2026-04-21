@@ -5,6 +5,9 @@
 
 Je développe des applications pensées pour être **simples, accessibles et efficaces**, avec une attention toute particulière portée à l’architecture du code, à l'expérience utilisateur et à la sécurité.
 
+Mon CV est disponible en PDF ici : [CV_Lino_Mallevaey.pdf](CV_Lino_Mallevaey.pdf) <br/>
+Ou en version web ici : [https://lino.coodlab.fr](https://lino.coodlab.fr)
+
 ---
 
 ## 🚀 Projets principaux
