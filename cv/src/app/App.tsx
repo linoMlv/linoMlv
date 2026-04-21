@@ -62,7 +62,7 @@ export default function App() {
                 <a href="https://lino.coodlab.fr" target="_blank">Lino Mallevaey</a>
               </h1>
               <h2 className="text-xl md:text-2xl font-semibold text-cyan-600 mt-4 flex items-center justify-center md:justify-start gap-3">
-                <Terminal size={26} strokeWidth={2.5} className="text-slate-900 shrink-0" />
+                <Terminal size={26} strokeWidth={2.5} className="hidden md:block text-slate-900 shrink-0" />
                 <span>Recherche d'alternance (12 ou 24 mois)<br /> Informatique, Systèmes & Cybersécurité</span>
               </h2>
             </div>
